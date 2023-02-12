@@ -276,5 +276,5 @@ TSWLatexianTemp*
 *.lpz
 *
 !.gitigore
-!lectures
-!labs
+!lectures/*.pdf
+!labs/*.pdf
